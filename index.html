@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPI Hesaplayıcı</title>
+    <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CPI Hesaplayıcı</h1>
+
+        <div class="product-input">
+            <label for="search1">Ürün 1:</label>
+            <input type="text" id="search1" autocomplete="off">
+            <div id="results1" class="results"></div>
+            <span class="price-display" id="price1"></span>
+            <select id="changeType1">
+                <option value="percentage">Yüzde Değişimi (%)</option>
+                <option value="price">Yeni Fiyat</option>
+            </select>
+            <input type="number" id="changeValue1" value="0">
+        </div>
+
+        <div class="product-input">
+            <label for="search2">Ürün 2:</label>
+            <input type="text" id="search2" autocomplete="off">
+            <div id="results2" class="results"></div>
+            <span class="price-display" id="price2"></span>
+            <select id="changeType2">
+                <option value="percentage">Yüzde Değişimi (%)</option>
+                <option value="price">Yeni Fiyat</option>
+            </select>
+            <input type="number" id="changeValue2" value="0">
+        </div>
+
+        <div class="product-input">
+            <label for="search3">Ürün 3:</label>
+            <input type="text" id="search3" autocomplete="off">
+            <div id="results3" class="results"></div>
+            <span class="price-display" id="price3"></span>
+            <select id="changeType3">
+                <option value="percentage">Yüzde Değişimi (%)</option>
+                <option value="price">Yeni Fiyat</option>
+            </select>
+            <input type="number" id="changeValue3" value="0">
+        </div>
+
+        <div class="product-input">
+            <label for="search4">Ürün 4:</label>
+            <input type="text" id="search4" autocomplete="off">
+            <div id="results4" class="results"></div>
+            <span class="price-display" id="price4"></span>
+            <select id="changeType4">
+                <option value="percentage">Yüzde Değişimi (%)</option>
+                <option value="price">Yeni Fiyat</option>
+            </select>
+            <input type="number" id="changeValue4" value="0">
+        </div>
+
+        <div class="product-input">
+            <label for="search5">Ürün 5:</label>
+            <input type="text" id="search5" autocomplete="off">
+            <div id="results5" class="results"></div>
+            <span class="price-display" id="price5"></span>
+            <select id="changeType5">
+                <option value="percentage">Yüzde Değişimi (%)</option>
+                <option value="price">Yeni Fiyat</option>
+            </select>
+            <input type="number" id="changeValue5" value="0">
+        </div>
+
+        <button onclick="calculate()">CPI Değişimini Hesapla</button>
+        <button onclick="clearInputs()">Temizle</button>
+        <div id="cpi-change"></div>
+
+        <div class="selected-products">
+            <h3>Seçilen Ürünler:</h3>
+            <div id="selected-products-display"></div>
+        </div>
+
+        <div class="individual-contributions">
+            <h3>Bireysel Katkılar:</h3>
+            <div id="individual-contributions"></div>
+        </div>
+
+        <button id="showAllItems">Tüm Ürünleri Göster</button>
+
+        <div id="allItemsModal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Tüm Ürünler (Ağırlığa Göre Sıralı)</h2>
+                <div id="allItemsTableContainer"></div>
+                <div id="pagination"></div>
+            </div>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
