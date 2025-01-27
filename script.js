@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 let overallPercentageChange = (totalCPIChange / 100) * 100;
 
-                document.getElementById('cpi-change').textContent = `CPI Değişimi: ${overallPercentageChange.toFixed(2)}%`;
+                document.getElementById('cpi-change').textContent = `HP Değişimi: ${overallPercentageChange.toFixed(2)}%`;
 
                 // Display Selected Products as Table
                 selectedProductsDisplay.innerHTML = "";
