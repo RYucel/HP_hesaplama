@@ -1,0 +1,521 @@
+﻿ProductName,LastMonthPrice,weight
+Pirinç,111.93,0.22
+Ekmek,79.21,1.54
+Bisküvi,221.00,0.17
+Kraker (Tuzlu Bisküvi),282.96,0.03
+Grisini; Galeta; Krik-Krak; Peksimet vb.,272.26,0.03
+Gofret,442.33,0.05
+Makarna,53.22,0.14
+Şehriye,52.18,0.02
+Yaş ve Kuru Pasta,722.91,0.19
+Kek,399.12,0.06
+Hamur Tatlıları (Hazır),778.60,0.12
+Dondurulmuş Fırın Ürünleri,309.90,0.06
+Hazır Hamur; Yufka vb. Ürünler,226.33,0.06
+Buğday Unu,40.58,0.1
+Pirinç Unu,183.80,0
+Galeta Unu,136.62,0
+Hamur İşleri İçin Hazır Karışım Unlar,45.79,0.04
+Bebek Maması (Toz Karışım),813.60,0.12
+Bulgur,58.29,0.08
+Tahıl Gevrekleri,424.84,0.1
+Dana Eti (Taze),622.19,1.07
+Kuzu Eti,808.36,1.38
+Kümes Hayvanları Tavuk,158.53,1.35
+Sakatat (Büyükbaş; Küçükbaş Hayvanları),446.59,0.06
+Sakatat (Kümes Hayvanları),63.95,0.03
+Sucuk,1210.99,0.07
+Sosis,717.49,0.03
+Salam,534.28,0.05
+Pişmeye Hazır Et Yemekleri (Dondurulmuş),409.53,0.07
+Pişirilmiş (Hazır) Et Yemekleri,281.45,0.07
+Konserve Edilmiş veya İşlenmiş Hazır Et Ürünleri (Bolibeef vb.),371.58,0.19
+Taze Balıklar,475.79,0.25
+Dondurulmuş Deniz Ürünleri,340.31,0.01
+Konserve Balık (Ton Balığı),507.74,0.13
+Süt,51.47,0.76
+Süt Diyet (Light),48.99,0.09
+Yoğunlaştırılmış Süt,210.86,0.03
+Yoğurt,115.53,0.54
+Peynir Beyaz Peynir,397.99,0.17
+Peynir Kaşar Peyniri,510.42,0.12
+Peynir Krem Peynir,448.47,0.05
+Diğer Peynir Çeşitleri,411.21,0.95
+Hazır Sütlü Tatlılar,18.77,0.03
+Tavuk Yumurtası,5.98,0.31
+Tereyağı Kahvaltılık,544.54,0.05
+Margarin,188.90,0.04
+Zeytinyağı,756.51,0.14
+Ayçiçek Yağı,99.71,0.31
+Mısırözü Yağı,104.76,0.01
+Portakal (Taze),43.21,0.06
+Greyfurt (Taze),59.24,0
+Limon (Taze),24.07,0.02
+Mandalina (Taze),43.98,0.05
+Muz (Taze),68.95,0.19
+Elma (Taze),64.59,0.22
+Armut( Taze),95.89,0.08
+Avokado (Taze),60.00,0.01
+Erik (Taze),130.73,0.03
+Kayısı (Taze),0.00,0.02
+Kiraz (Taze),0.00,0.04
+Nektarin /Taze),0.00,0.02
+Şeftali (Taze),0.00,0.04
+Üzüm (Taze),176.11,0.04
+Çilek (Taze),112.04,0.06
+Ananas (Taze),92.09,0.01
+Ayva (Taze),88.65,0.01
+Cennet Hurması ( Hurma (Trabzon)) (Taze),134.84,0.01
+Karpuz,0.00,0.12
+Kavun,50.38,0.04
+Kestane,324.30,0.02
+Kivi (Taze),13.55,0.02
+Nar (Taze),76.79,0.01
+Mango (Taze),73.11,0
+Badem,734.92,0.07
+Ceviz,771.31,0.1
+Fındık,960.64,0.02
+Antep Fıstığı,1202.06,0.01
+Yer Fıstığı,363.14,0.03
+Leblebi,367.45,0.01
+Ay Çekirdeği,254.51,0.03
+Kabak Çekirdeği,579.29,0.01
+Kuru Üzüm,380.40,0.01
+Kuru Kayısı,636.94,0.03
+Kuru Erik,536.78,0
+Diğer Kuru Yemiş; Kuru Meyve ve Sert Kabuklu Yemişler (Yer Fıstığı Kaju (Fildişi)),929.55,0.04
+Ispanak (Taze Sebze),25.87,0.04
+Marul (Taze Sebze),27.47,0.06
+Maydanoz (Taze Sebze),12.05,0.04
+Pazı (Taze Sebze),23.05,0.01
+Pırasa (Taze Sebze),34.21,0.02
+Roka (Taze Sebze),21.58,0.01
+Semizotu (Taze Sebze),0.00,0.01
+Üzüm Yaprağı (Asma Yaprağı) (Taze Sebze),0.00,0.01
+Yeşil Soğan (Taze Sebze),23.41,0.01
+Kolakas (Kış Sebzesi) (Yöresel),87.51,0.03
+Molohiya,0.00,0.02
+Gollandro,29.10,0.02
+Brokoli (Taze Sebze),68.30,0.01
+Çiçek Lahanası (Karnıbahar) (Taze Sebze),34.93,0.02
+Lahana Beyaz (Taze Sebze) (Sarma),16.95,0.03
+Lahana Kırmızı Lahana (Taze Sebze),28.04,0
+Bakla (Taze Sebze),219.73,0.02
+Bal Kabağı (Taze Sebze),0.00,0
+Bamya (Taze Sebze),0.00,0.02
+Bezelye (Taze Sebze),233.30,0.02
+Biber Çarliston (Taze Sebze),76.80,0.04
+Biber Dolmalık (Taze Sebze),87.11,0.02
+Börülce (Taze Sebze),0.00,0.05
+Domates (Taze Sebze),62.12,0.42
+Fasulye (Taze Sebze),159.49,0.11
+Kabak (Taze Sebze),87.83,0.04
+Patlıcan (Taze Sebze),133.63,0.07
+Salatalık (Taze Sebze),126.37,0.19
+Bezelye (Dondurulmuş Sebze),149.33,0.02
+Fasulye (Dondurulmuş Sebze),136.46,0.01
+Mısır (Dondurulmuş Sebze),173.69,0
+Garnitür (Dondurulmuş Sebze),128.35,0
+Zeytin,323.60,0.09
+Bullez (Taze Sebze),83.44,0
+Cehennem Topuzu (Taze Sebze),28.66,0
+Enginar (Taze Sebze),60.87,0.04
+Havuç (Taze Sebze),50.91,0.03
+Kereviz (Taze Sebze),50.51,0.02
+Kuru Soğan (Taze Sebze) (Sarı; Beyaz; Kırmızı),28.63,0.11
+Kuşkonmaz (Ayrelli) (Taze Sebze),0.00,0
+Mantar (Taze Sebze),202.54,0.03
+Pancar (Taze Sebze),50.79,0.01
+Sarımsak Kuru (Baş) (Taze Sebze),256.44,0.01
+Turp Kırmızı (Taze Sebze),27.41,0
+Kuru Fasulye,121.78,0.09
+Nohut,115.14,0.03
+Mercimek,95.48,0.06
+Diğer Bakliyat (Barbunya; Böğrülce),105.68,0.03
+Kurutulmuş Sebzeler (Molohiya),2094.19,0.01
+Sebze Konservesi,109.18,0.05
+Hazır Yemek ve Mezeler,84.17,0.04
+Turşu,183.59,0.02
+Salça,104.44,0.09
+Patates,75.23,0.27
+Patates (Dondurulmuş Sebze),197.84,0.01
+Cips; Çerez vb.,431.10,0.14
+Toz Şeker,50.96,0.1
+Kesme Şeker,165.91,0
+Reçel,179.11,0.03
+Bal,553.64,0.07
+Macun,536.99,0
+İkramlık Çikolatalar,1011.84,0.04
+Tablet; Bar vb. Çikolata,708.09,0.15
+Krem Çikolata,337.48,0.05
+Tahin Helvası,280.32,0.03
+Sakız,39.70,0.03
+Şeker; Karamela vb.,305.20,0.05
+Dondurma,263.49,0.16
+Pekmez,282.49,0.02
+Sirke,106.46,0.03
+Nar Ekşisi,491.59,0.01
+Ketçap,172.55,0.03
+Mayonez,235.31,0.02
+Baharatlar,713.72,0.08
+Tuz,43.50,0.02
+Et Su-Tavuk Su,384.26,0.03
+Kabartma Maddeleri,219.54,0.01
+Hazır Çorbalar (Paket),419.89,0.01
+Hazır Pakette Toz Tatlılar,31.98,0.02
+Kahve Kreması,513.99,0
+Tahin,293.47,0.03
+Kahve,589.65,0.37
+Hazır Kahve (Neskafe vb.),1207.42,0.09
+Çay,1276.71,0.13
+Poşet Bitki ve Meyve Çayları,87.96,0.01
+Kakao,835.52,0.01
+Kakaolu İçecekler (Toz),480.31,0.01
+Su,4.10,0.67
+Maden Suyu ve Sodası,52.85,0.06
+Gazoz Meyveli,34.32,0.05
+Kola,36.53,0.36
+Ayran,63.45,0.04
+Diğer Alkolsüz İçecekler (Sporcu İçeceği; Enerji İçeceği),161.82,0.02
+Hazır Meyve ve Sebze Suları (Portakal; Elma; Domates vb.),63.40,0.18
+Diğer Meyve ve Sebze Suları (Limonata),67.02,0.01
+Rakı,369.02,0.14
+Viski,435.09,0.18
+Zivaniya,589.00,0
+Şarap,247.48,0.04
+Bira Alkollü,49.56,0.14
+Sigara Türkiye (A Marka),53.00,0.05
+Sigara Yabancı (A Marka),74.00,0.29
+Sigara Yabancı (B Marka),75.00,0.4
+Sigara Yabancı (C Marka),74.00,0.2
+Diğer Yabancı Sigaralar (Her Çeşit),75.63,1.45
+Puro,27.00,0.01
+Tütün,2920.00,0.16
+Pamuklu Kumaş,324.84,0
+Diğer Kumaşlar,420.04,0.01
+Mont (Erkek İçin),3059.11,0.02
+Takım Elbise (Erkek için),6054.89,0.08
+Ceket (Erkek için),2616.27,0.03
+Pantolon (Erkek için),1178.75,0.19
+Kazak (Erkek için),944.32,0.06
+Gömlek (Erkek için),1104.73,0.1
+Sweatshirt (Erkek için),903.94,0
+Tişört (Erkek için),0.00,0.09
+Bermuda/Kapri Pantolon (Erkek İçin),0.00,0.01
+Şort (Erkek için),0.00,0.02
+Eşofman (Erkek için),2034.95,0.04
+Pijama 2'li Takım (Erkek için),1159.99,0.01
+İç Çamaşırı Tek (Erkek için),186.03,0.03
+Çorap (Erkek için),89.59,0.02
+Mont (Kadın için),2098.77,0.03
+Pantolon-Ceket Takım (Kadın İçin),5818.68,0.01
+Ceket (Kadın için),2346.06,0.07
+Etek (Kadın için),1215.08,0.04
+Pantolon (Kadın için),1075.13,0.26
+Hırka (Kadın için),1024.39,0.02
+Kazak/Bluz (Kadın için),916.94,0.31
+Gömlek (Kadın için),783.74,0.08
+Tişört (Kadın için),557.51,0.12
+Tayt (Kadın İçin),484.64,0.03
+Şort (Kadın için),0.00,0.03
+Eşofman (Kadın için),2048.82,0.08
+Pijama 2'li Takım (Kadın için),1002.05,0.02
+İç Çamaşırı Tek (Kadın için),170.30,0.04
+Çorap (Kadın İçin),125.97,0.04
+Mont (Çocuk için),1255.18,0.03
+Elbise-Jile (Çocuk için),0.00,0.04
+Pantolon (Çocuk için),701.56,0.04
+Kazak (Çocuk için),555.15,0.04
+Gömlek (Çocuk için),565.89,0.02
+Sweatshirt (Çocuk İçin),506.45,0
+Tişört (Çocuk için),0.00,0.05
+Kapri Pantolon (Çocuk İçin),0.00,0.01
+Şort (Çocuk için),0.00,0.01
+Eşofman (Çocuk için),954.16,0.07
+Pijama 2'li Takım(Çocuk için),556.44,0.01
+İç Çamaşırı Tek (Çocuk için),102.71,0.01
+Çorap (Çocuk için),77.33,0.01
+Okul Giysileri (Çocuk için),0.00,0.12
+Bebek Tulumu,430.71,0
+Bebek İç Çamaşırı,176.75,0.01
+Bebek Çorabı,54.72,0
+Örgü Yünü,697.08,0.03
+Kravat (Erkek için),250.14,0.01
+Kemer (Erkek için),527.28,0.01
+Giysi Tamir Ücreti,164.95,0.01
+Kuru Temizleme Ücreti,282.96,0.02
+Ayakkabı (Erkek için),1950.09,0.21
+Bot (Erkek için),2369.73,0.02
+Spor Ayakkabısı (Erkek için),3275.45,0.16
+Terlik (Erkek için),416.21,0.02
+Ayakkabı (Kadın için),1463.78,0.26
+Bot (Kadın için),1827.62,0.04
+Çizme (Kadın için),2371.63,0.02
+Spor Ayakkabısı (Kadın için),2268.20,0.1
+Terlik (Kadın için),680.02,0.05
+Ayakkabı (Çocuk ve Bebek için),1030.94,0.08
+Bot (Çocuk ve Bebek için),1198.70,0.01
+Spor Ayakkabısı (Çocuk ve Bebek için),1369.12,0.1
+Terlik (Çocuk ve Bebek için),304.87,0.01
+Ayakkabı Tamiri (Erkek için),176.73,0
+Ayakkabı Tamiri (Kadın için),130.02,0
+Kira Ücreti,16302.18,4.83
+Badana ve Boyalar,198.14,0.11
+Yer ve Duvar Döşemeleri,342.82,0.29
+Badana; Boya; Yer ve Duvar Döşemesinde Kullanılan Malzemeler,5.92,0.07
+Cam,422.70,0
+Pencere,19099.03,0.06
+Sıhhi Tesisat Malzemeleri,5964.29,0.18
+Badanacı ve Boyacı Ücreti (Malzeme ve İşçilik Ücreti),380.00,0.41
+Tesisat Döşeme Ücreti (Malzeme ve İşçilik Ücreti),31419.81,0.21
+Tesisat Döşeme Ücreti (İşçilik Ücreti),15525.00,0.19
+Su (Şebeke Suyu),31.84,1.56
+Vidanjör ücreti (Foseptik Temizleme),1800.00,0.01
+Elektrik Ücreti (Fatura),6.62,5.52
+Tüp,472.98,0.98
+Gazyağı Ücreti,34.95,0.06
+Kömür Ücreti Mangal,53.52,0.05
+Odun Ücreti (Nakliye Ücreti Dahil),6000.00,0.07
+Tek Masa,35321.93,0.04
+Tek Sandalye,15738.36,0.07
+Yatak Odası Takımı,328638.04,0.28
+Yatak (Tek kişilik),19402.12,0.04
+Yatak (Çift kişilik),25087.19,0.11
+Yatak Bazası,27416.94,0.02
+Oturma Odası Takımı,244404.38,0.75
+Yemek Odası Takımı,254322.10,0.02
+Kanepe ve Çekyat,80861.28,0.11
+Sehpa,27481.76,0.02
+Halı,1574.35,0.06
+Mobilya; Mefruşat ve Yer Döşemeleri Tamiri (İşçilik Ücreti),23633.32,0.06
+Perdelik Kumaş,334.23,0.02
+Yatak Örtüsü,4015.65,0.02
+Uyku Seti,3895.15,0.02
+Yorgan (Çift kişilik),3022.22,0.02
+Battaniye (Tek kişilik),603.70,0.02
+Battaniye (Çift Kişilik),1679.08,0.02
+Çarşaf; Nevresim; Yastık Kılıfı vb.,2479.94,0.1
+Yastık,873.84,0.01
+Havlu,289.90,0.04
+Buzdolabı,38657.53,0.25
+Derin Dondurucu,26108.67,0.09
+Çamaşır Makinesi,23182.54,0.25
+Bulaşık Makinesi,21685.69,0.11
+Çamaşır Kurutma Makinesi,32273.63,0.02
+Fırın (Elektrikli),16939.38,0.12
+Klima,53719.04,0.3
+Soba,3195.81,0.06
+Şofben,12613.14,0.06
+Aspiratör,8771.14,0
+Elektrikli Süpürge,10797.43,0.1
+Su Sebili,9050.68,0.04
+Elektrikli Kesici; Karıştırıcı; Parçalayıcı vb. Aletler,5067.38,0.02
+Kızartma; Pişirme; Isıtma vb. İçin Elektrikli Küçük Ev Aletleri,3969.80,0.02
+Elektrikli Çay; Kahve vb. Sıcak İçecek Makineleri ve Su Isıtıcılar,3915.58,0.02
+Ütü,5642.07,0.02
+Vantilatör,4016.93,0.01
+Diğer Elektrikli Küçük Ev Aletleri,10536.84,0.01
+Ev Aletlerinin Tamiri (Malzeme ve İşçilik Ücreti),1358.79,0.13
+Cam Ev Eşyası,88.29,0.09
+Porselen Ev Eşyası,947.09,0.04
+Çelik Çatal Bıçak Kaşık vb.,64.55,0.02
+Çelik Mutfak Eşyaları,1527.17,0.05
+Teflon Mutfak Eşyası,869.82,0.02
+Plastik Ev ve Mutfak Eşyası,330.48,0.06
+Diğer Elektriksiz Ev Aletleri (Ütü Masası vb.),1305.25,0.03
+Motorlu Bahçe Araçları,5292.92,0.06
+Bahçe ve Dış Mekan Malzemeleri,33.05,0.01
+Pil,43.36,0.03
+Kapı; Dolap; Pencere vb. Aksesuar ve Malzemeleri,1040.78,0.01
+Ampul,64.93,0.03
+Florasan Lamba,137.57,0
+Diğer Küçük Elektrik Aksesuarları,52.65,0.02
+Çamaşır İçin Temizlik ve Bakım Ürünleri,88.22,0.62
+Bulaşık İçin Temizlik ve Bakım Ürünleri,162.88,0.19
+Hijyenik Zeminler İçin Temizlik- Bakım Ürünleri (Banyo; Lavabo vb.),135.08,0.12
+Halı; Mobilya ve Yer Döşemeleri İçin Temizlik ve Bakım Ürünleri,83.84,0.02
+Ayakkabı Temizlik ve Bakım Ürünleri,54.26,0
+Haşere İçin Kullanılan Ürünler,160.62,0.03
+Oda Kokusu,178.68,0.01
+Her Türlü Ev Temizlik Malzemesi,321.50,0.06
+Bulaşık İçin Temizlik Malzemeleri,43.25,0.02
+Saklama; Muhafaza ve Pişirmeye Yönelik Malzemeler,16.12,0.05
+Kağıt Sofra Malzemeleri,31.16,0.08
+Plastik Sofra Malzemeleri,4.96,0.01
+Ev Eşyaları ve Temizlik Araçları İçin Yedek Malzemeler,103.52,0
+Diğer Dayanıksız Ev Eşyaları (Çamaşır Mandalı vb.),4.01,0.02
+Gündelikçi Ücreti,3134.61,0.49
+Halı ve Kilim Temizletme Ücreti,83.43,0.01
+İlaçlar,218.90,0.92
+Yara Bandı,15.00,0
+Diğer Sağlık Ürünleri (Hastaaltı bezi; eldiven vb.),19.93,0.04
+Numaralı Gözlük,1991.37,0.11
+Kontakt Lens,377.49,0.03
+Sağlık İle İlgili Aletler,2202.09,0.02
+Uzman Doktor Muayene Ücreti,1827.48,0.72
+Diş Çekimi Ücreti,2326.97,0.04
+Diş Dolgu Ücreti,2758.92,0.16
+Diş Röntgen Filmi Ücreti,1041.10,0.01
+Diş Taşı Temizliği Ücreti,2477.12,0.04
+Implant (Kemiğe Vidalı Diş) Ücreti,27997.68,0.33
+Kanal Tedavisi Ücreti,6341.33,0.01
+Ultrason Ücreti,2534.11,0.05
+Emar (MR) Çektirme Ücreti,4591.54,0.07
+Laboratuvar Kan Tahlili Ücreti,328.87,0.14
+Laboratuvar İdrar Tahlili Ücreti,275.67,0.03
+Mamografi Çektirme Ücreti,6245.38,0.01
+Aşı Yaptırma İçin Ödenen Ücret,914.00,0.07
+Fizik Tedavi Ücreti (Ayakta),2064.56,0.03
+Diyetisyen İçin Ödenen Ücret,2431.47,0.06
+Hastane Yatak Ücreti,4111.39,0.2
+Ameliyat Ücreti (Her Türlü Ameliyat),103568.35,0.7
+Doğum Ücreti (Normal),75371.53,0.01
+Doğum Ücreti (Sezeryan),82463.76,0.05
+Birinci El Otomobil (Dizel),1294844.54,0.09
+Birinci El Otomobil (Benzinli),1539862.56,2.59
+İkinci El Otomobil (Benzinli),1114685.00,1.99
+Motosiklet,142427.38,0.07
+Bisiklet,7356.15,0.04
+Araç Yedek Parça ve Ekipmanları,3706.57,0.56
+Benzin,36.50,7.1
+Eurodizel,34.95,1.21
+Ulaşım Araçları İçin Yağlar,489.83,0.02
+Araçların Tamir ve Bakımına Ödenen Ücretler (Malzeme ve İşçilik Ücreti),12487.29,0.82
+Araçların Tamirine ve Bakımına Ödenen Ücretler (İşçilik Ücreti),401.86,0.14
+Araba Kiralama Ücreti,1494.60,0.12
+Otopark Ücreti,62.70,0.02
+Şoför Eğitimi (Ehliyet/Sürücü Kursu) Ücreti,824.26,0.02
+Otobüs Ücreti (Uzun Mesafe) Şehirler Arası,141.68,0.09
+Servis Ücreti,2000.00,0.05
+Taksi Ücreti,220.00,0.12
+Uçak Ücreti,10538.27,0.77
+Feribot Ücreti,3387.32,0
+Kargo,511.99,0.01
+Mektup Gönderme Ücreti,45.00,0.01
+Telefon ve Telefaks Ekipmanları,18473.06,0.7
+Telefon ve Telefaks Ekipmanlarının Onarımı,4193.39,0.03
+Telefon Görüşme Ücreti,0.20,0.41
+Telefon Kart Ücreti (Normal),37.12,0
+Cep Telefonu Görüşme Ücreti,2.82,2.83
+Telgraf Gönderme Ücreti,0.37,0.18
+İnternet Ücreti (3G; ADSL; Wireless vb. Dahil),447.50,0.26
+CD Çalar (CD Player),2603.24,0.01
+Televizyon,16336.10,0.38
+TV Yayın Masrafları,2346.09,0.03
+Kamera,7636.31,0.02
+Film; Kayıt vb. Gösterici Cihazları,2056.63,0
+Fotoğraf Makinesi,10230.72,0.01
+Bilgisayar,28207.92,0.21
+Bilgisayar Ekipmanları,1327.31,0.03
+Disket; CD; VCD vb. (Dolu),85.24,0.01
+Kaset; Disk ve Disket (Boş),14.55,0
+Görsel; İşitsel; Veri İşleme Araçları Tamiri (Malzeme ve İşçilik Ücreti),1283.80,0.02
+Müzik Aletleri,119.06,0.01
+Oyuncak Taşıt Araçları,535.03,0.05
+Çocuk Oyuncakları Diğer (Oyun Konsolu vb.),23544.70,0.14
+Av Malzemeleri,359.28,0.03
+Spor ve Eğlence Araçları,1066.41,0.01
+Kamp Malzemeleri,544.48,0
+Diğer Açık Hava Eğlence Malzemeleri,593.41,0.02
+Çiçek,24.38,0.12
+Saksılar (Çiçek ve Bitki Kutuları),111.90,0.01
+Evde Beslenen Hayvanlar İçin Gıda Harcamaları,94.73,0.32
+Evde Beslenen Hayvanlar İçin Bakım Harcamaları,962.26,0.01
+Veteriner Ücreti (Evde Beslenen Hayvan İçin),711.38,0.03
+Spor Müsabakalarına Giriş Ücreti,120.00,0.01
+Sportif Faaliyetler İçin Yapılan Ödemeler,1984.28,0.12
+Spor ve Eğlence Amaçlı Faaliyetlere Yönelik Kurs Ücretleri,2295.77,0.17
+Sinema,163.05,0.05
+Tiyatro,200.00,0
+Hayvanat Bahçesi; Botanik Bahçesi vb. Yerlere Giriş Ücreti,50.00,0
+Kablolu - Özel TV Yayın Hizmetlerine Ödenen Ücretler,379.00,0.28
+İnternet Cafe Saat Ücreti,62.72,0
+Toplu Eğlence Yerlerine Yönelik Masraflar,105910.45,0.06
+Fotoğraf Hizmetleri,55.60,0.03
+On Numara (Şans Oyunları Masrafları),10.00,0
+Piyango Bileti (Türkiye Cumhuriyeti) (Şans Oyunları Masrafları),300.00,0.03
+Sayısal Loto (Şans Oyunları Masrafları),20.00,0.02
+Şans Topu (Şans Oyunları Masrafları),10.00,0
+KKTC Devlet Piyango Bileti (Şans Oyunları Masrafları),200.00,0.03
+Çocuk Kitapları,56.30,0.02
+Okul (Ders) Kitapları ve Dergileri,682.22,0.11
+Diğer Kitaplar,344.82,0.03
+Gazete,21.60,0.16
+Magazin ve Dergiler,152.93,0.01
+Davetiye (Düğün vb.),9.87,0
+Okul Defteri (Çizgili; Çizgisiz; Kareli Defter),71.38,0.02
+Diğer Defterler,111.76,0.01
+Kalem,31.14,0.02
+Resim Boyaları,132.90,0.01
+Yazım ve Çizim Kağıtları (Kırtasiye Malzemesi),157.72,0.01
+Karton,32.15,0
+Yazıcı; Daktilo ve Fotokopi Makinesi Dolum Malzemeleri,1165.64,0
+Diğer Kırtasiye Malzemeleri (Silgi; Kalem ucu vb.),29.66,0.08
+Yurt Dışı Bir Hafta ve Daha Fazla Süreli Turlar,4039.99,4.91
+Yurt Dışı (Hafta Arası 2 veya/ve 5 gün Süreli),7473.52,2.71
+Anaokulu Ücreti,22784.69,0.25
+Özel İlköğretim Ücreti,241877.44,1.07
+Etüd ücreti (Okul Öncesi Eğitim ve İlköğretim),17631.39,0.3
+Özel Ortaokul Ücreti,313249.53,0.51
+Özel Lise Ücreti,343573.13,0.65
+Özel Dersane (Üniversiteye Hazırlık),298.54,0.13
+Özel Ders Ücreti (Üniversiteye Hazırlık),4743.42,0.14
+Özel Üniversite Ücreti,255139.74,5.04
+Eğitim İle İlgili Kurs Ücretleri Diğer (Düzeyi Belirlenemeyen Eğitim Programları),900.93,0.06
+Çorba (Restoranda),169.11,0.01
+Hazır Yemekler ve Mezeler (Restoranda),609.95,1.04
+Kebaplar (Restoranda),517.04,0.58
+Pide; Lahmacun vb. (Restoranda),136.76,0.11
+Dürüm / Pide (Restoranda),347.08,0.25
+Hamburger; Sandviç; Tost vb. (Restoranda),436.42,0.16
+Pizza (Restoranda),484.59,0.11
+Sıcak İçecekler (Restoranda),104.58,0.01
+Asitli İçecekler (Kola; Sade ve Meyveli Gazoz) (Restoranda),51.82,0.03
+Alkolsüz İçecekler Diğer,57.61,0.01
+Alkollü İçkiler (Restoranda),156.51,0.03
+Hamburger; Sandviç; Tost vb. (Cafe; Bar; Pastane vb. Yerlerde),233.57,0.18
+Börek (Cafe; Bar; Pastane vb. Yerlerde),40.67,0.01
+Pastane ve Fırın Ürünleri (Cafe; Bar; Pastane vb. Yerlerde),65.33,0.09
+Hamur Tatlıları (Cafe; Bar; Pastane vb. Yerlerde),167.47,0.02
+Diğer Hazır Yiyecekler (Cafe; Bar; Pastane vb. Yerlerde) (Dondurma vb.),38.99,0.04
+Sıcak İçecekler (Cafe; Bar; Pastane vb. Yerlerde),52.21,0.24
+Hamburger; Sandviç; Tost vb. (Kantinlerde),170.00,0.11
+Sıcak İçecekler (Kantinlerde),20.00,0.08
+Otel Ücreti,6330.26,3.9
+Erkek Berberi,460.68,0.23
+Kadın Berberi,771.10,0.31
+Kişisel Bakım Hizmetleri (Kadın İçin),615.81,0.16
+Elektrikli Saç Bakım Aletleri,2614.09,0.01
+Traş Malzemeleri,97.29,0.06
+Ağız ve Diş Bakımı Ürünleri,165.64,0.11
+Tuvalet ve Güzellik Sabunu,199.21,0.07
+Sabun,276.77,0.01
+Parfüm; Esans vb.,561.27,0.09
+Deodorant,144.17,0.05
+Misafir Kolonyası (Limon; Tütün vb.),483.85,0.01
+Cilt ve Vücut Bakım Ürünleri,225.53,0.12
+Makyaj Malzemeleri,381.96,0.06
+Güneş Bakım Ürünleri,643.95,0.03
+Saç Bakım Ürünleri,365.69,0.31
+Tuvalet Kağıdı,16.22,0.25
+Kağıt Mendil vb. Ürünler,11.28,0.06
+Pamuk,65.07,0.01
+Bebek Bezi,10.59,0.21
+Hijyenik Kadın Bağı,9.25,0.06
+Bebekler İçin Bakım Ürünleri,39.44,0.01
+Altın Takı,3032.47,0.33
+Seyahat Malzemeleri,1623.53,0.01
+Çanta (Kadın İçin),1014.17,0.05
+Okul Çantası,1416.07,0.03
+Şemsiye,250.85,0
+Bebek İçin Gerekli Araçlar,8226.62,0.03
+Güneş Gözlüğü,6207.63,0.06
+Yaşlı ve Yatalak Hastalar İçin Evde Bakım Hizmetleri,44479.60,0.03
+Kreş ve Gündüz Bakımevleri,15355.76,0.42
+Konut Sigortası,655.62,0.02
+Sağlık Sigortası,264.25,0.12
+Kasko,15233.97,0.37
+Banka İle Para Havale / Çekme Ücreti (Online Dahil),122.00,0.01
+Resmi Evraklarla İlgili Hizmetler,420.80,1.07
+Ulaşım Araçları İle İlgili İşlemler,961.54,0.13
+Dökümantasyon İçin Ödenen Ücretler,6.88,0.03
